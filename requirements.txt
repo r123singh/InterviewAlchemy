@@ -1,0 +1,7 @@
+gradio
+openai
+python-dotenv
+autogen
+pyautogen
+markdown
+rich 
